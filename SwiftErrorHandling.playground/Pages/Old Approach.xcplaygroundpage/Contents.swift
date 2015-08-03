@@ -24,3 +24,5 @@ Looks okay, right? Why would they change this?
 * You can just pass `NULL` as `error` parameter and completely ignore the error
 * Even if you use the `error` in-out parameter you could forget to check it after calling the method
 */
+
+//: [Next](@next)
